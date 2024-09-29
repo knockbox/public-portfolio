@@ -22,7 +22,7 @@ The [User Guide](./user-guide/user-guide.md) can be found in the [user-guide](./
 
 ### Admin Guide
 
-The [Admin Guide](./user-guide/admin-guide.md) can be found in the [admin-guide](./admin-guide/) directory of this repository.
+The [Admin Guide](./admin-guide/admin-guide.md) can be found in the [admin-guide](./admin-guide/) directory of this repository.
 
 ### Project Design Documents
 
